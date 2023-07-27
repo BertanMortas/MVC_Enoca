@@ -1,0 +1,4 @@
+rootProject.name = 'MVC_Enoca'
+include 'question_4'
+include 'MVC_Crud_Question_6'
+
